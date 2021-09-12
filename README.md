@@ -1,6 +1,8 @@
 # BatalhaNaval
 Projeto Feito Na UFPB no curso de Matemática Computacional de um Jogo de Batalha Naval com o Pygame e uma Historia simples.
+
 Estrutura do Projeto:
+
 <img src="imagens\Screenshots\0001.jpg" title="01">
 
 <img src="imagens\Screenshots\0002.jpg" title="02">
